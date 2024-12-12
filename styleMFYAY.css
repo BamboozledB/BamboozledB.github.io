@@ -1,0 +1,77 @@
+header{
+    border-style:double;
+    background-color: rgb(142, 109, 218);
+    text-align: center;
+    font-family:TimesNewRoman;
+    font-style:italic;
+}
+html, body{
+    background:linear-gradient(to bottom, rgb(108, 108, 250), rgb(255, 132, 132));
+    height:100%;
+}
+
+.port{
+    width:400px;
+    height:400px;
+    padding-left:750px;
+}
+
+footer{
+    font-family:Verdana;
+    border-style:double;
+    background-color: rgb(142, 109, 218);
+    text-align: center;
+    
+    
+}
+.table, .aboutme, .sports, .goal1{
+     text-align: center;
+     background-color:rgb(255, 177, 220);
+     font-size: large;
+     border-style:groove;
+     font-family:Tahoma;
+    
+}
+
+.award{
+    width:200px;
+    height:200px;
+    margin:50px;
+    padding:30px;
+}
+
+.animals{
+    margin:50px;
+    padding-left:600px;
+    
+}
+
+.image{
+    width:200px;
+    height:200px;
+    
+}
+
+.image:hover{
+    width:300px;
+    height:300px;
+}
+
+.visited{
+    color:rgb(255, 177, 220);
+    font-family:Tahoma;
+}
+
+.caption{
+    color:rgb(70, 27, 168);
+    font-family:Tahoma;
+}
+
+
+.goal2{
+    text-align: center;
+     background-color:rgb(142, 109, 218);
+     font-size: large;
+     border-style:groove;
+     font-family:Tahoma;
+}
